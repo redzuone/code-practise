@@ -11,7 +11,7 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "pyside6", specifier = ">=6.11.2" }]
+requires-dist = [{ name = "pyside6", specifier = ">=6.11.2,<6.12" }]
 
 [[package]]
 name = "pyside6"
